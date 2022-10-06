@@ -1,0 +1,17 @@
+{
+  "name": "สล็อตpg เว็บตรง ทดลองเล่น 2022",
+  "main": "betflix สล็อตpg",
+  "theme": "syntax",
+  "version": "2.112.0",
+  "description": "สล็อตpg เว็บตรง ไม่ผ่านเอเย่นต์ ฝากถอนไม่มีขั้นต่ำ 1 บาทก็ฝากได้",
+  "keywords": [
+    "สล็อตpg เว็บตรง",
+    "สล็อตpg",
+    "ทดลองเล่นสล็อต"
+  ],
+  "repository": "https://github.com/casinobetflix/betflix-org",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
